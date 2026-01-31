@@ -1,5 +1,5 @@
 I made a UI Python program which will delet your pc junk files eg. Temp files/Browser junk/recycle bin etc. 
 
-You can selete which one you want to delte and which one you don't want.
+You can selete which one you want to delet and which one you don't.
 
-Donwload the exe to use it as normal application in your pc. 
+Download the exe to use it as normal application in your pc. 
